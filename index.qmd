@@ -1,8 +1,12 @@
 ---
-title: "write like nobody's reading?"
-subtitle: "ECR 2024"
+title: "~~dance like nobody's watching~~🕺   <br>write like nobody's reading? ✍️ "
+subtitle: "low-stakes writing, academic reflection & graduate profile capabilities for the April ECR workshop"
 author: "liza bolton"
-date: 2024-03-08
+institute: "professional teaching fellow, department of statistics, waipapa taumata rau"
+date: 2024-04-10
+title-slide-attributes:
+  data-background-image: "title_image.png"
+  data-background-opacity: "0.4"
 format:
   revealjs:
     theme: theme.scss
@@ -24,7 +28,6 @@ editor:
     wrap: 72
 ---
 
-
 ```{r, echo=F, message=F, warning=F}
 library(tidyverse)
 ```
@@ -33,17 +36,17 @@ library(tidyverse)
 
 ```{r, eval = F, echo=F}
 # Need to rerun if change URL
-code <- qrcode::qr_code("https://lizabolton.github.io/data-aotearoa-2024/")
+code <- qrcode::qr_code("https://lizabolton.github.io/2024-Lowstakes-writing-ECR/#/title-slide")
 png("img/qr-slide.png")
 plot(code)
 dev.off()
 ```
 
-![](img/qr-slide.png){fig-align="center" width="650"}
+![](img/qr-slide.png){fig-align="center" width="40%"}
 
 or go to [link.lizabolton.com](link.lizabolton.com)
 
-# kia ora
+# kia ora 👋
 
 ```{r xaringan-editable, echo=FALSE}
 xaringanExtra::use_editable(expires = 1)
@@ -102,65 +105,317 @@ Sciences at the University of Toronto (2020-2023)
 for-profit organisations, (or as I prefer, Data Ambassador),
 self-employed (2013-)
 
-
-
 ## warm-up question
 
-::: callout-note
-**How do you think students view writing in your discipline?**
-:::
+🤔 [[**How do you think students view writing in your
+discipline?**]{.smallcaps}]{.highlight}
 
+<br>
+
+::: columns
+::: {.column width="50%"}
 ### THINK. \[30 secs\]
 
 Consider your answer to this question.
 
+<br>
+
 ### PAIR. \[2 mins\]
 
-Talk to the person next you about
-
--   What discipline do you/will you teach in?
-
-*Insert the QR code (can reuse from Data Aotearoa)*
-
-# Why write?
-
-::: incremental
--   Communication with others
-
--   Processing and organising information (communicating with yourself)
-
--   Because \_\_\_\_\_\_\_\_ said you have to (lecturer, boss, journal
-    publisher, grant authority...etc.)
+Talk to the person next you.
 :::
 
-# What is low stakes writing?
+::: {.column width="50%"}
+### SHARE.
+
+Go to [this link](https://statsapps.online/write/G292N1Q132D9/create/)
+and write a short answer. Helpful if you could [**include your
+discipline**]{.highlight}.
+
+Also on [link.lizabolton.com](https://link.lizabolton.com/) page as
+'[Quick, write!
+app](https://statsapps.online/write/G292N1Q132D9/create/)'.
+
+```{r, eval = F, echo=F}
+# Need to rerun if change URL
+code <- qrcode::qr_code("https://statsapps.online/write/G292N1Q132D9/create/")
+png("img/qr-quickwrite.png")
+plot(code)
+dev.off()
+```
+
+![](img/qr-quickwrite.png){fig-align="center" width="50%"}
+:::
+:::
+
+::: notes
+THINK/PAIR/SHARE is also an example of a useful classrom structure to
+use, with or without associated writing
+:::
+
+## why write?
+
+::: incremental
+-   Passive consumption ➡️ active engagement with concepts 💡
+
+-   Communication with others / knowledge translation 💬
+
+-   Processing and organising information (communicating with yourself)
+    / critical thinking 🤔
+
+-   Because \_\_\_\_\_\_\_\_ said you have to (lecturer, boss, journal
+    publisher, grant authority...etc.) 💼
+:::
+
+## what is low stakes writing?
 
 Low stakes writing is writing where students do not need to feel a lot
 of pressure about writing --- it is usually 'low stakes' in that it
-isn't worth a lot of **marks,** but there are also **reputational
-risks** that students perceive when others will be reading their
-writing.
+isn't worth a lot of **marks,** but there are also [**reputational
+risks**]{.highlight .bold} that students perceive when others will be
+reading their writing.
 
--   Opportunities for anonymous writing in class
+-   Opportunities for anonymous writing *in class*
 
     -   Risks of bad behaviour, but these are fairly easy to mitigate
         'live' and also not very common in my experience --- and I've
-        taught large first year courses!
+        taught large first year courses!.
 
--   Opportunities for writing in assessments
+-   Opportunities for writing *in assessments*
 
-# \[Find te reo name\] graduate profile activity
+    -   To keep marking burden low, consider a fairly simple rubric that
+        you can also share with students.
+    -   I'd recommend not including these in timed assessments unless
+        they are very short and students have had practice.
 
-https://www.auckland.ac.nz/en/students/forms-policies-and-guidelines/student-policies-and-guidelines/graduate-profile.html
+## additional considerations
 
-# Perfect is the enemy of good
+-   Writing may be especially daunting for **English Language Learners**
+    / students for whom English is an additional language, and students
+    who may not have **adequate preparation from high school** / had a
+    long gap before university. This shouldn't deter us from encouraging
+    writing, and in fact is *exactly why* we should integrate practice
+    and provide resources.
 
-Make the grading scheme clear to students.
+-   Not all students will be familiar with common instructions for
+    writing that might be common. I've encountered this most from
+    students who did not do highschool in Aotearoa / recently.
 
-# An example from my teaching
+-   Examples include: "compare and contrast", "describe" vs "discuss",
+    what it means to interpret something "in context".
 
-Context: First assignment in a stage 3 statistics paper (STATS 369: Data Science Practice)
+# academic reflection
 
-2 of 20 marks
+![GIF from Disney's Mulan. Image description: Mulan turning away from
+mulitple reflective surfaces while signing the song
+Relfection](https://64.media.tumblr.com/ce1de833fb974985cf590f2e9772613d/tumblr_opm0vizLyj1st0dt8o3_540.gifv){fig-align="center"
+width="60%"}
 
-Read over the [current graduate capability themes, LEVEL 2: Graduate Capabilities -- Themes](https://www.auckland.ac.nz/en/students/forms-policies-and-guidelines/student-policies-and-guidelines/graduate-profile.html) or the refreshed version that connects to [Taumata Teitei](https://www.auckland.ac.nz/en/on-campus/life-on-campus/latest-student-news/curriculum-framework-transformation-programme0/university-graduate&~_). Choose one specific task or subtask in this assignment or in lab 01 or lab 02 and discuss how your work demonstrates ONE of these specific capabilities. Make sure you explain the capability in your own words as well as referencing the graduate profile. Assume your audience is the HR team at a potential employer for the Data Science job of your dreams. Write \~100 to 300 words. [2 marks]
+::: footer
+🎶 when will my reflection show, who i am inside?🎶
+:::
+
+--
+
+> Education begins the gentleman, but reading, good company and
+> reflection must finish him. \~John Locke
+
+> By three methods we may learn wisdom: First, by reflection, which is
+> noblest; Second, by imitation, which is easiest; and third by
+> experience, which is the bitterest. \~Confucius
+
+## what is academic reflection?
+
+"Academic reflective writing requires critical and analytic thought, a
+clear line of argument, and the use of evidence through examples of
+personal experiences and thoughts and often also theoretical
+literature." from the University of Edinburgh [Reflection
+Toolkit](https://www.ed.ac.uk/reflection/reflectors-toolkit/producing-reflections/academic-reflections/general-tips).
+
+"**Critical reflection** is the conscious examination of past
+experiences, thoughts and ways of doing things. Its goal is to surface
+learning about oneself and a situation, and to bring meaning to it in
+order to inform the present and the future. Reflection challenges the
+status quo of practice, thoughts and assumptions and may therefore
+inform our decisions, actions, attitudes, beliefs and understanding
+about ourselves." from the [University of Edinburgh Reflection Toolkit
+literature
+review](https://www.ed.ac.uk/sites/default/files/atoms/files/reflection_literature_review.pdf)
+
+# graduate profiles
+
+🔗
+[Link](https://www.auckland.ac.nz/en/students/forms-policies-and-guidelines/student-policies-and-guidelines/graduate-profile.html "Graduate capabilities")
+
+## level 1: aspirations for University of Auckland graduates
+
+**Pūmātauranga \| Scholars** -- Graduates are knowledgeable and curious,
+excited by ideas and conscientious in their efforts to understand the
+complexities of their communities and the world.
+
+<br>
+
+**Aronga Raraupori \| Global Citizens** -- Graduates are interculturally
+aware and connected to the peoples of New Zealand, Te Moananuiā-Kiwa
+(The Pacific) and our international communities. Graduates seek to make
+the world a fair and better place.
+
+<br>
+
+**Kiriauaha \| Innovators** -- Graduates are creative and inventive,
+building sustainably on the past to respond to current and future
+challenges.
+
+ <br>
+
+**Kaiarataki \| Leaders** -- Graduates are influential, inspiring and
+impactful. They are inclusive, empowering and service-minded.
+
+## level 2: **graduate capabilities -- themes**
+
++:------------------------------------+:----------------------------+
+| **Themes**                          | **Capabilities**            |
++-------------------------------------+-----------------------------+
+| Waipapa Herenga Waka: The Mooring   | *People and Place*          |
+| Post                                |                             |
++-------------------------------------+-----------------------------+
+| Waipapa ki Uta: The Landing Place   | *Sustainability*            |
++-------------------------------------+-----------------------------+
+| Waipapa Ngā Maunga Whakahī: Land of | *Knowledge and Practice*    |
+| Proud Mountains                     |                             |
+|                                     | *Critical Thinking*         |
+|                                     |                             |
+|                                     | *Solution Seeking*          |
++-------------------------------------+-----------------------------+
+| Waipapa Tātai Hono: Ancestral Ties  | *Communication*             |
+|                                     |                             |
+|                                     | *Collaboration*             |
++-------------------------------------+-----------------------------+
+| Waipapa Tāngata Rau: The Place of   | *Ethics and                 |
+| Great People                        | Professionalism*            |
++-------------------------------------+-----------------------------+
+
+## graduate profile activity
+
+First, (re-)familiarise yourself with the UoA [Graduate Profile
+Capabilities](https://www.auckland.ac.nz/en/students/forms-policies-and-guidelines/student-policies-and-guidelines/graduate-profile.html).
+
+🤔 [[**Describe an assessment task and how all or part of it connects to
+one of the capabilities**]{.smallcaps}]{.highlight}
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+### THINK. \[30 secs\]
+
+Consider your answer to this question.
+
+<br>
+
+### PAIR. \[2 mins\]
+
+Talk to the person next you.
+:::
+
+::: {.column width="50%"}
+### SHARE.
+
+Go to [this link](https://statsapps.online/write/G292N1Q132D9/create/)
+and write a short answer.
+
+```{r, eval = F, echo=F}
+# Need to rerun if change URL
+code <- qrcode::qr_code("https://statsapps.online/write/G292N1Q132D9/create/")
+png("img/qr-quickwrite.png")
+plot(code)
+dev.off()
+```
+
+![](img/qr-quickwrite.png){fig-align="center" width="50%"}
+:::
+:::
+
+# example from my teaching
+
+## context
+
+-   First assignment in a stage 3 statistics paper (STATS 369: Data
+    Science Practice)
+
+-   Worth 3 of 20 marks
+
+-   Assignments viewed as learning tasks in preparation for test/exam
+    where students should be aiming for 75%+
+
+## prompt
+
+1.  Read over the refreshed [graduate capability themes, LEVEL 2:
+    Graduate Capabilities --
+    Themes](https://www.auckland.ac.nz/en/students/forms-policies-and-guidelines/student-policies-and-guidelines/graduate-profile.html)
+    that connects to [Taumata
+    Teitei](https://www.auckland.ac.nz/en/on-campus/life-on-campus/latest-student-news/curriculum-framework-transformation-programme0/university-graduate&~_).
+    Choose one specific task or subtask in this assignment or in lab 01
+    or lab 02 and discuss how your work demonstrates ONE of these
+    specific capabilities. Make sure you explain the capability in your
+    own words as well as referencing the graduate profile. Assume your
+    audience is the HR team at a potential employer for the Data Science
+    job of your dreams. Write \~100 to 300 words. \[2 marks\]
+
+2.  What is something you're proud of in the assignment? \[0.5 marks\]
+
+3.  What is something you're going to do differently for the next
+    assignment? \[0.5 marks\]
+
+## considerations for your grading instructions
+
+Marks were given for reasonable effort. It should be clear which task
+and which capability students are connecting to in (1).
+
+<br>
+
+#### perfect is the enemy of good
+
+Writing does not need to be perfect for full marks, but should be
+readable with minimal challenge. Marks for writing only lost if the
+grader cannot understand what is being expressed.
+
+<br>
+
+#### provide some likely examples for the graders
+
+Examples could be their summary for Black Saber in this assessment
+connecting to 'Communication', as they are writing a summary for a
+non-stats audience, or 'Solution Seeking' --- addressing issues of
+gender bias as they "consider multiple perspectives in their
+solution-seeking", or 'Ethics and Professionalism' as 'exhibiting
+independent thought' is key to auditing a system.
+
+# thank you! questions?
+
+Let's keep in touch.
+
+[liza.bolton\@auckland.ac.nz](mailto:liza.bolton@auckland.ac.nz)
+
+[lizabolton.com](www.lizabolton.com)
+
+## references
+
+1.  [*Low-stakes writing
+    assignments*](https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/low-stakes-writing-assignments#:~:text=Low%2Dstakes%20writing%20encourages%20student,students%20for%20high%2Dstakes%20assignments.)
+    from the University of Waterloo Centre for Teaching Excellence
+
+2.  [*Integrating Low-Stakes Writing Into Large
+    Classes*](https://lsa.umich.edu/content/dam/sweetland-assets/sweetland-documents/teachingresources/IntegratingLowStakesWritingIntoLargeClasses/IntegratingLow-StakesWritingIntoLargeClasses.pdf)
+    from the University of Michigan Sweetland Center for Writing
+
+3.  [*Reflection
+    toolkit*](https://www.ed.ac.uk/reflection/reflectors-toolkit/producing-reflections/academic-reflections/general-tips)
+    from the University of Edinburgh
+
+#### image reference
+
+Title photo by
+<a href="https://unsplash.com/@pawel_czerwinski?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pawel
+Czerwinski</a> on
+<a href="https://unsplash.com/photos/blue-and-black-floral-textile-sdx3SVUNjQI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>

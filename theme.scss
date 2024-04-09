@@ -15,6 +15,14 @@ $presentation-h2-font-size: 1.4em;
 
 /*-- scss:rules --*/
 
+.highlight {
+  background-color: #FFD700;
+}
+
+p.thick {
+  font-weight: bold;
+}
+
 .reveal .custom-title {
   position: absolute;
   color: #611E65;
