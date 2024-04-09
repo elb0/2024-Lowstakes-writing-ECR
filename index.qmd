@@ -2,11 +2,10 @@
 title: "~~dance like nobody's watching~~🕺   <br>write like nobody's reading? ✍️ "
 subtitle: "low-stakes writing, academic reflection & graduate profile capabilities; ECR workshop"
 author: "liza bolton"
-institute: "professional teaching fellow, department of statistics, waipapa taumata rau"
 date: 2024-04-10
 title-slide-attributes:
   data-background-image: "title_image.png"
-  data-background-opacity: "0.4"
+  data-background-opacity: "0.6"
 format:
   revealjs:
     theme: theme.scss
