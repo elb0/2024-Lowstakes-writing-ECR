@@ -3,7 +3,7 @@
     "path": "~/Library/CloudStorage/Dropbox/Stats Dept/Research and development/2024 Lowstakes writing ECR/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2862681148",
     "contents": "",
     "dirty": false,
     "created": 1712627206993.0,
@@ -13,8 +13,8 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "114,3",
-        "scrollLine": "106",
+        "cursorPosition": "417,3",
+        "scrollLine": "411",
         "rmdVisualMode": "false",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "4797:8277",
@@ -22,10 +22,11 @@
         "docOutlineVisible": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1712699084,
+    "lastKnownWriteTime": 1712700076,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1712699085167,
+    "last_content_update": 1712700076637,
     "read_only": false,
-    "read_only_alternatives": [
+    "read_only_alternatives": []
+}
