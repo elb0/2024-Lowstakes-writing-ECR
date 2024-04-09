@@ -1,0 +1,11 @@
+"0","code <- qrcode::qr_code(""https://lizabolton.github.io/2024-Lowstakes-writing-ECR/#/title-slide"")
+png(""img/qr-slide.png"")
+plot(code)
+dev.off()
+"
+"1","null device "
+"1","
+"
+"1","          1 "
+"1","
+"
