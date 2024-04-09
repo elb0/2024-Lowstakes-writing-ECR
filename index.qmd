@@ -1,6 +1,6 @@
 ---
 title: "~~dance like nobody's watching~~🕺   <br>write like nobody's reading? ✍️ "
-subtitle: "low-stakes writing, academic reflection & graduate profile capabilities for the April ECR workshop"
+subtitle: "low-stakes writing, academic reflection & graduate profile capabilities; ECR workshop"
 author: "liza bolton"
 institute: "professional teaching fellow, department of statistics, waipapa taumata rau"
 date: 2024-04-10
@@ -44,7 +44,7 @@ dev.off()
 
 ![](img/qr-slide.png){fig-align="center" width="40%"}
 
-or go to [link.lizabolton.com](link.lizabolton.com)
+or go to [link.lizabolton.com](http://link.lizabolton.com)
 
 # kia ora 👋
 
@@ -167,11 +167,11 @@ use, with or without associated writing
     publisher, grant authority...etc.) 💼
 :::
 
-## what is low stakes writing?
+## what is low-stakes writing?
 
-Low stakes writing is writing where students do not need to feel a lot
-of pressure about writing --- it is usually 'low stakes' in that it
-isn't worth a lot of **marks,** but there are also [**reputational
+Low-stakes writing is writing where students do not feel a lot of
+pressure about writing --- it is usually 'low stakes' in that it isn't
+worth a lot of **marks,** but there are also [**reputational
 risks**]{.highlight .bold} that students perceive when others will be
 reading their writing.
 
@@ -199,10 +199,10 @@ reading their writing.
 
 -   Not all students will be familiar with common instructions for
     writing that might be common. I've encountered this most from
-    students who did not do highschool in Aotearoa / recently.
+    students who did not do high school in Aotearoa / recently.
 
--   Examples include: "compare and contrast", "describe" vs "discuss",
-    what it means to interpret something "in context".
+    -   Examples include: "compare and contrast", "describe" vs
+        "discuss", what it means to interpret something "in context".
 
 # academic reflection
 
@@ -215,14 +215,17 @@ width="60%"}
 🎶 when will my reflection show, who i am inside?🎶
 :::
 
---
-
+---
 > Education begins the gentleman, but reading, good company and
-> reflection must finish him. \~John Locke
+> reflection must finish him. 
+\~John Locke
+
+<br>
 
 > By three methods we may learn wisdom: First, by reflection, which is
 > noblest; Second, by imitation, which is easiest; and third by
-> experience, which is the bitterest. \~Confucius
+> experience, which is the bitterest. 
+\~Confucius
 
 ## what is academic reflection?
 
@@ -231,6 +234,8 @@ clear line of argument, and the use of evidence through examples of
 personal experiences and thoughts and often also theoretical
 literature." from the University of Edinburgh [Reflection
 Toolkit](https://www.ed.ac.uk/reflection/reflectors-toolkit/producing-reflections/academic-reflections/general-tips).
+
+<br>
 
 "**Critical reflection** is the conscious examination of past
 experiences, thoughts and ways of doing things. Its goal is to surface
@@ -266,34 +271,34 @@ the world a fair and better place.
 building sustainably on the past to respond to current and future
 challenges.
 
- <br>
+<br>
 
 **Kaiarataki \| Leaders** -- Graduates are influential, inspiring and
 impactful. They are inclusive, empowering and service-minded.
 
 ## level 2: **graduate capabilities -- themes**
 
-+:------------------------------------+:----------------------------+
-| **Themes**                          | **Capabilities**            |
-+-------------------------------------+-----------------------------+
-| Waipapa Herenga Waka: The Mooring   | *People and Place*          |
-| Post                                |                             |
-+-------------------------------------+-----------------------------+
-| Waipapa ki Uta: The Landing Place   | *Sustainability*            |
-+-------------------------------------+-----------------------------+
-| Waipapa Ngā Maunga Whakahī: Land of | *Knowledge and Practice*    |
-| Proud Mountains                     |                             |
-|                                     | *Critical Thinking*         |
-|                                     |                             |
-|                                     | *Solution Seeking*          |
-+-------------------------------------+-----------------------------+
-| Waipapa Tātai Hono: Ancestral Ties  | *Communication*             |
-|                                     |                             |
-|                                     | *Collaboration*             |
-+-------------------------------------+-----------------------------+
-| Waipapa Tāngata Rau: The Place of   | *Ethics and                 |
-| Great People                        | Professionalism*            |
-+-------------------------------------+-----------------------------+
++:-----------------------------------+:---------------------------+
+| **Themes**                         | **Capabilities**           |
++------------------------------------+----------------------------+
+| Waipapa Herenga Waka: The Mooring  | *People and Place*         |
+| Post                               |                            |
++------------------------------------+----------------------------+
+| Waipapa ki Uta: The Landing Place  | *Sustainability*           |
++------------------------------------+----------------------------+
+| Waipapa Ngā Maunga Whakahī: Land   | *Knowledge and Practice*   |
+| of Proud Mountains                 |                            |
+|                                    | *Critical Thinking*        |
+|                                    |                            |
+|                                    | *Solution Seeking*         |
++------------------------------------+----------------------------+
+| Waipapa Tātai Hono: Ancestral Ties | *Communication*            |
+|                                    |                            |
+|                                    | *Collaboration*            |
++------------------------------------+----------------------------+
+| Waipapa Tāngata Rau: The Place of  | *Ethics and                |
+| Great People                       | Professionalism*           |
++------------------------------------+----------------------------+
 
 ## graduate profile activity
 
