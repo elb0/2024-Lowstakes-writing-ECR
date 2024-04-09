@@ -1,44 +1,110 @@
 ---
-title: "Write like nobody's reading?"
-format: revealjs
+title: "write like nobody's reading?"
+subtitle: "ECR 2024"
+author: "liza bolton"
+date: 2024-03-08
+format:
+  revealjs:
+    theme: theme.scss
+    transition: fade
+    width: 1600
+    height: 900
+    background-transition: fade
+    highlight-style: ayu-mirage
+    slide-number: c/t
+    auto-stretch: false
+    code-fold: true
+    code-summary: "Show the code"
+code-link: true
+execute:
+  echo: true
+  freeze: auto
 editor: 
   markdown: 
     wrap: 72
 ---
 
-# Kia ora!
 
--   Check spelling and order of greetings, did from memory\*
+```{r, echo=F, message=F, warning=F}
+library(tidyverse)
+```
 
-Tēna tatou katoa \
-Ko Uropi me Kanata te whakapaparangamai (spell check) (engari)
+## scan for slides
 
-Ko Te Awamutu te whenua tupu
+```{r, eval = F, echo=F}
+# Need to rerun if change URL
+code <- qrcode::qr_code("https://lizabolton.github.io/data-aotearoa-2024/")
+png("img/qr-slide.png")
+plot(code)
+dev.off()
+```
 
-Ko Ō-Tawhao te marae
+![](img/qr-slide.png){fig-align="center" width="650"}
 
-Ko Waitematā te kainga
+or go to [link.lizabolton.com](link.lizabolton.com)
 
-Ko Liza taku ingoa
+# kia ora
 
-Tēna koutou katoa
+```{r xaringan-editable, echo=FALSE}
+xaringanExtra::use_editable(expires = 1)
+```
 
-# Who am I?
+Tēnā koutou katoa\
 
-*Pull in CV at glance and add awards from UofT and UoA?*
+Ko **Uropi** me **Kanata** te whakapaparanga mai (engari)\
 
-# Get these slides
+Ko **Te Awamutu** te whenua tupu\
 
-*TO DO*
+Ko **O-tāwhao** te mārae\
 
-*- Push to GitHub and get link*
+Ko **Tāmaki Makaurau** te kāinga\
 
-*- QR code for slides*
+Ko **Liza** taku ingoa\
 
-*- link.lizabolton.com for these slides and other links for today's
-session*
+Tēnā tātou katoa
 
-# Warm-up question
+::: footer
+Liza, pronounced like: "lie" and "zuh".
+:::
+
+::: notes
+Greetings everyone\
+My origins are in Canada and Europe,\
+I grew up in Te Awamutu\
+My mārae is O-Tāwhao\
+My home is Auckland\
+My name is Liza
+:::
+
+## CV at a glance
+
+#### education
+
+🎓 PhD in Statistics from the University of Auckland: [*Longitudinal
+predictors of mortality inequalities in Aotearoa New
+Zealand*](https://researchspace.auckland.ac.nz/handle/2292/67251)
+
+<br>
+
+#### teaching statistics and data science
+
+👩🏻‍🏫 Professional Teaching Fellow in the Department of Statistics at the
+University of Auckland (2017, 2023-)
+
+👩🏻‍🏫 Assistant Professor, Teaching Stream in the Department of Statistical
+Sciences at the University of Toronto (2020-2023)
+
+<br>
+
+#### consulting
+
+💼 Statistical consultant for a range of business, education and not
+for-profit organisations, (or as I prefer, Data Ambassador),
+self-employed (2013-)
+
+
+
+## warm-up question
 
 ::: callout-note
 **How do you think students view writing in your discipline?**
